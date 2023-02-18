@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Plin plin plon plon",
+    "description": "Plin plin plon plon, browse better.",
+    "version": "1.1",
+    "icons":
+    {
+        "512": "Gwyn_Lord_of_Sunlight.jpg"
+    },
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/Gwyn Lord of Cinder  Dark Souls Soundtrack.mp3",
+            ]
+        }
+    }
+}
